@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plantatree/static/css/main.5f0642d2.css",
+    "main.css": "/plantatree/static/css/main.121ad4c9.css",
     "main.js": "/plantatree/static/js/main.a082cf51.js",
     "static/js/787.04542831.chunk.js": "/plantatree/static/js/787.04542831.chunk.js",
     "static/media/propic-3.png": "/plantatree/static/media/propic-3.ea1d278e254a6bc34a88.png",
@@ -12,12 +12,12 @@
     "static/media/rainforest.jpg": "/plantatree/static/media/rainforest.0129d87068ea2c875331.jpg",
     "static/media/logo.png": "/plantatree/static/media/logo.ecb632a402bda303ac65.png",
     "index.html": "/plantatree/index.html",
-    "main.5f0642d2.css.map": "/plantatree/static/css/main.5f0642d2.css.map",
+    "main.121ad4c9.css.map": "/plantatree/static/css/main.121ad4c9.css.map",
     "main.a082cf51.js.map": "/plantatree/static/js/main.a082cf51.js.map",
     "787.04542831.chunk.js.map": "/plantatree/static/js/787.04542831.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f0642d2.css",
+    "static/css/main.121ad4c9.css",
     "static/js/main.a082cf51.js"
   ]
 }
